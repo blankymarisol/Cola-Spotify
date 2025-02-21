@@ -4,6 +4,7 @@
 
 ## ⚠️ Importante  
 Por motivos de privacidad (y porque fallé en esconder mi `clientID` 😭), necesitarás colocar el tuyo para que todo funcione correctamente.  
+Debes iniciar sesion con tu spotify para que te muestre tu cola.
 
 Pero no te preocupes, como prueba de que sí funciona, te dejo una imagen con mi información:  
 
