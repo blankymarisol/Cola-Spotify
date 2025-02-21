@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #ffe6f2;
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #ff66b2;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #ff3385;
+}
+
+h2 {
+    color: #ff66b2;
+    font-size: 24px;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #ffb3d9;
+}
+
+tr:hover {
+    background-color: #ffe6f2;
+}
+
+.song-img {
+    width: 50px;
+    border-radius: 10px;
+}
+
+.delete {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
